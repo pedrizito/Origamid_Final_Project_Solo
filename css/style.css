@@ -1,6 +1,7 @@
 /*Global settings*/
 @import "./global/global.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* Utility */
 @import "./utils/colors.css";
