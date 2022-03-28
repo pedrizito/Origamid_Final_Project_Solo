@@ -1,0 +1,7 @@
+/*Global settings*/
+@import "./global/global.css";
+@import "./global/header.css";
+
+/* Utility */
+@import "./utils/colors.css";
+@import "./utils/typography.css";
