@@ -1,0 +1,13 @@
+.introduction-bg {
+  background: var(--cor-12);
+  color: var(--cor-0);
+  box-shadow: inset 0px -180px var(--cor-0);
+}
+
+.introduction {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-bottom: 60px;
+  gap: 60px;
+  align-items: center;
+}
